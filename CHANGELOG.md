@@ -1,3 +1,8 @@
+# v0.5.2
+
+- add more alert types
+- fix documentation
+
 # v0.5.1
 - release: Removed the tar.gz release format to fix issue with tf registry
 
